@@ -50,6 +50,8 @@ int main() {
     }
     printf("\n");
 
+    // Realocando para um valor menor
+
     free(ponteiro_vetor);
 
     return 0;
